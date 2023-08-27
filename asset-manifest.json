@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/albums-app/static/css/main.21891389.css",
+    "main.js": "/albums-app/static/js/main.519eb1cf.js",
+    "index.html": "/albums-app/index.html",
+    "main.21891389.css.map": "/albums-app/static/css/main.21891389.css.map",
+    "main.519eb1cf.js.map": "/albums-app/static/js/main.519eb1cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21891389.css",
+    "static/js/main.519eb1cf.js"
+  ]
+}
